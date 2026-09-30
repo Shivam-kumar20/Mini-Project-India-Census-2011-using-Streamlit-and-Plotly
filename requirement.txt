@@ -1,3 +1,5 @@
 Basic Requirements are.
 
-Plotly
+streamlit
+pandas
+plotly
